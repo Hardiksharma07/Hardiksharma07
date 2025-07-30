@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hardiksharma07
-- 👀 I’m interested in ... High paying jobs 
-- 🌱 I’m currently learning ... New technologies likes lwc ,react , node js 
+- 👀 I’m interested in ... Development Profile 
+- 🌱 I’m currently learning ... New technologies likes lwc ,react , node js , crm ,website
 - 💞️ I’m looking to collaborate on ... Freelance projects
 - 📫 How to reach me ... Hardiksharma7919@gmail.com
 
